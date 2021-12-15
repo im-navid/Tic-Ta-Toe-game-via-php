@@ -7,12 +7,12 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Ken's Tic Tac Toe</title>
+        <title>Navid's Tic Tac Toe</title>
     </head>
     <body>
         <!-- Inline HTML css to prevent selection of text -->
         <div style="-moz-user-select: none; -webkit-user-select:none; -ms-user-select:none; user-select:none; -moz-user-drag:none; -webkit-user-drag:none; -ms-user-drag:none; user-drag: none;" unselectable="on">
-            <p>Welcome to Ken's PHP Tic Tac Toe game.</p>
+            <p>Welcome to Navid's PHP Tic Tac Toe game.</p>
             <?php
             // Initialize PHP Tick Tac Toe Game Engine
             new Game();
